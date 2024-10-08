@@ -1,0 +1,290 @@
+[2024-10-08 08:50:10Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Bin': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\bin'
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Root': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0'
+[2024-10-08 08:50:10Z INFO HostContext] Well known config file 'Credentials': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.credentials'
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Bin': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\bin'
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Root': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0'
+[2024-10-08 08:50:10Z INFO HostContext] Well known config file 'Runner': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.runner'
+[2024-10-08 08:50:10Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2024-10-08 08:50:10Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22631.
+[2024-10-08 08:50:10Z INFO Listener] Version: 2.320.0
+[2024-10-08 08:50:10Z INFO Listener] Commit: 78f21670b4a58aff19b5189207f54eb2bee324d1
+[2024-10-08 08:50:10Z INFO Listener] Culture: en-US
+[2024-10-08 08:50:10Z INFO Listener] UI Culture: en-US
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Bin': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\bin'
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Root': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0'
+[2024-10-08 08:50:10Z INFO Listener] Validating directory permissions for: 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0'
+[2024-10-08 08:50:10Z INFO CommandLineParser] Parse
+[2024-10-08 08:50:10Z INFO CommandLineParser] Parsing 1 args
+[2024-10-08 08:50:10Z INFO CommandLineParser] parsing argument
+[2024-10-08 08:50:10Z INFO CommandLineParser] HasArgs: False
+[2024-10-08 08:50:10Z INFO CommandLineParser] Adding Command: run
+[2024-10-08 08:50:10Z INFO Listener] Arguments parsed
+[2024-10-08 08:50:10Z INFO Runner] ExecuteCommand
+[2024-10-08 08:50:10Z INFO ConfigurationStore] currentAssemblyLocation: C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\bin\Runner.Listener.dll
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Bin': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\bin'
+[2024-10-08 08:50:10Z INFO ConfigurationStore] binPath: C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\bin
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Bin': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\bin'
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Root': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0'
+[2024-10-08 08:50:10Z INFO ConfigurationStore] RootFolder: C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Bin': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\bin'
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Root': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0'
+[2024-10-08 08:50:10Z INFO HostContext] Well known config file 'Runner': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.runner'
+[2024-10-08 08:50:10Z INFO ConfigurationStore] ConfigFilePath: C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.runner
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Bin': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\bin'
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Root': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0'
+[2024-10-08 08:50:10Z INFO HostContext] Well known config file 'Credentials': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.credentials'
+[2024-10-08 08:50:10Z INFO ConfigurationStore] CredFilePath: C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.credentials
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Bin': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\bin'
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Root': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0'
+[2024-10-08 08:50:10Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.credentials_migrated'
+[2024-10-08 08:50:10Z INFO ConfigurationStore] MigratedCredFilePath: C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.credentials_migrated
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Bin': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\bin'
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Root': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0'
+[2024-10-08 08:50:10Z INFO HostContext] Well known config file 'Service': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.service'
+[2024-10-08 08:50:10Z INFO ConfigurationStore] ServiceConfigFilePath: C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.service
+[2024-10-08 08:50:10Z INFO CommandSettings] Flag 'help': 'False'
+[2024-10-08 08:50:10Z INFO CommandSettings] Flag 'version': 'False'
+[2024-10-08 08:50:10Z INFO CommandSettings] Flag 'commit': 'False'
+[2024-10-08 08:50:10Z INFO CommandSettings] Flag 'check': 'False'
+[2024-10-08 08:50:10Z INFO CommandSettings] Command 'configure': 'False'
+[2024-10-08 08:50:10Z INFO CommandSettings] Command 'remove': 'False'
+[2024-10-08 08:50:10Z INFO CommandSettings] Command 'warmup': 'False'
+[2024-10-08 08:50:10Z INFO ConfigurationManager] LoadSettings
+[2024-10-08 08:50:10Z INFO ConfigurationStore] IsConfigured()
+[2024-10-08 08:50:10Z INFO ConfigurationStore] IsConfigured: True
+[2024-10-08 08:50:10Z INFO ConfigurationManager] Is configured: True
+[2024-10-08 08:50:10Z INFO ConfigurationStore] Read setting file: 302 chars
+[2024-10-08 08:50:10Z INFO ConfigurationManager] Settings Loaded
+[2024-10-08 08:50:10Z INFO ConfigurationStore] IsServiceConfigured()
+[2024-10-08 08:50:10Z INFO ConfigurationStore] IsServiceConfigured: False
+[2024-10-08 08:50:10Z INFO CommandSettings] Command 'run': 'True'
+[2024-10-08 08:50:10Z INFO ConfigurationStore] IsConfigured()
+[2024-10-08 08:50:10Z INFO ConfigurationStore] IsConfigured: True
+[2024-10-08 08:50:10Z INFO ConfigurationManager] Is configured: True
+[2024-10-08 08:50:10Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2024-10-08 08:50:10Z INFO Runner] Set runner startup type - Manual
+[2024-10-08 08:50:10Z INFO CommandSettings] Flag 'once': 'False'
+[2024-10-08 08:50:10Z INFO CommandSettings] Flag 'once': 'False'
+[2024-10-08 08:50:10Z INFO Runner] RunAsync
+[2024-10-08 08:50:10Z INFO ConfigurationManager] LoadSettings
+[2024-10-08 08:50:10Z INFO ConfigurationStore] IsConfigured()
+[2024-10-08 08:50:10Z INFO ConfigurationStore] IsConfigured: True
+[2024-10-08 08:50:10Z INFO ConfigurationManager] Is configured: True
+[2024-10-08 08:50:10Z INFO ConfigurationManager] Settings Loaded
+[2024-10-08 08:50:10Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "KUNJ",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus3.actions.githubusercontent.com/ZRwtjmtxfnb4jhhNH6YyOlUntRxVHBfOhApglqOFvs76bUYiMU/",
+  "GitHubUrl": "https://github.com/Kunj-Mori/MERN_DashBoard",
+  "WorkFolder": "_work"
+}
+[2024-10-08 08:50:10Z INFO MessageListener] Loading Credentials
+[2024-10-08 08:50:10Z INFO ConfigurationStore] HasCredentials()
+[2024-10-08 08:50:10Z INFO ConfigurationStore] stored True
+[2024-10-08 08:50:10Z INFO CredentialManager] GetCredentialProvider
+[2024-10-08 08:50:10Z INFO CredentialManager] Creating type OAuth
+[2024-10-08 08:50:10Z INFO CredentialManager] Creating credential type: OAuth
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Bin': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\bin'
+[2024-10-08 08:50:10Z INFO HostContext] Well known directory 'Root': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0'
+[2024-10-08 08:50:10Z INFO HostContext] Well known config file 'RSACredentials': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.credentials_rsaparams'
+[2024-10-08 08:50:10Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.credentials_rsaparams
+[2024-10-08 08:50:10Z INFO MessageListener] Attempt to create session.
+[2024-10-08 08:50:10Z INFO MessageListener] Connecting to the Runner Server...
+[2024-10-08 08:50:10Z INFO RunnerServer] EstablishVssConnection
+[2024-10-08 08:50:10Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-10-08 08:50:10Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-10-08 08:50:10Z INFO RunnerServer] EstablishVssConnection
+[2024-10-08 08:50:10Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-10-08 08:50:10Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-10-08 08:50:10Z INFO RunnerServer] EstablishVssConnection
+[2024-10-08 08:50:10Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-10-08 08:50:10Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-10-08 08:50:12Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-10-08 08:50:12Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-10-08 08:50:12Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-10-08 08:50:12Z INFO MessageListener] VssConnection created
+[2024-10-08 08:50:12Z INFO Terminal] WRITE LINE: 
+[2024-10-08 08:50:12Z INFO Terminal] WRITE LINE: 
+[2024-10-08 08:50:12Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.credentials_rsaparams
+[2024-10-08 08:50:12Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.credentials_rsaparams
+[2024-10-08 08:50:14Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-10-08 08:50:14Z INFO MessageListener] Session created.
+[2024-10-08 08:50:14Z INFO Terminal] WRITE LINE: Current runner version: '2.320.0'
+[2024-10-08 08:50:14Z INFO Terminal] WRITE LINE: 2024-10-08 08:50:14Z: Listening for Jobs
+[2024-10-08 08:50:14Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2024-10-08 08:50:15Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 08:50:15Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.credentials_rsaparams
+[2024-10-08 08:50:16Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-10-08 08:51:09Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 08:51:40Z INFO MessageListener] Message '2729920087927274259' received from session '7f6ae832-e3e7-45bf-98cb-313ab8d1bd5c'.
+[2024-10-08 08:51:40Z INFO ConfigurationStore] HasCredentials()
+[2024-10-08 08:51:40Z INFO ConfigurationStore] stored True
+[2024-10-08 08:51:40Z INFO CredentialManager] GetCredentialProvider
+[2024-10-08 08:51:40Z INFO CredentialManager] Creating type OAuth
+[2024-10-08 08:51:40Z INFO CredentialManager] Creating credential type: OAuth
+[2024-10-08 08:51:40Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.credentials_rsaparams
+[2024-10-08 08:51:40Z INFO ActionsRunServer] EstablishVssConnection
+[2024-10-08 08:51:40Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2024-10-08 08:51:40Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-10-08 08:51:41Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-10-08 08:51:41Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.credentials_rsaparams
+[2024-10-08 08:51:41Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.credentials_rsaparams
+[2024-10-08 08:51:43Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-10-08 08:51:44Z INFO JobDispatcher] Job request 2 for plan 4a900a9b-6ac1-4e71-81f7-a80d70a354b5 job e07742bd-189a-5079-918b-43f8b2f94b89 received.
+[2024-10-08 08:51:44Z INFO JobDispatcher] Pull OrchestrationId 4a900a9b-6ac1-4e71-81f7-a80d70a354b5.deploy.__default from JWT claims
+[2024-10-08 08:51:44Z INFO MessageListener] Received job status event. JobState: Busy
+[2024-10-08 08:51:44Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2024-10-08 08:51:44Z INFO Terminal] WRITE LINE: 2024-10-08 08:51:44Z: Running job: deploy
+[2024-10-08 08:51:44Z INFO JobDispatcher] Start renew job request 2 for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2024-10-08 08:51:45Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 10/8/2024 9:01:44 AM
+[2024-10-08 08:51:45Z INFO HostContext] Well known directory 'Bin': 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\bin'
+[2024-10-08 08:51:45Z INFO ProcessInvokerWrapper] Starting process:
+[2024-10-08 08:51:45Z INFO ProcessInvokerWrapper]   File name: 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\bin\Runner.Worker.exe'
+[2024-10-08 08:51:45Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2356 2368'
+[2024-10-08 08:51:45Z INFO ProcessInvokerWrapper]   Working directory: 'C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\bin'
+[2024-10-08 08:51:45Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2024-10-08 08:51:45Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2024-10-08 08:51:45Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2024-10-08 08:51:45Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2024-10-08 08:51:45Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2024-10-08 08:51:45Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2024-10-08 08:51:45Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2024-10-08 08:51:45Z INFO ProcessInvokerWrapper] Process started with process id 44932, waiting for process exit.
+[2024-10-08 08:51:45Z INFO JobDispatcher] Send job request message to worker for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2024-10-08 08:51:45Z INFO ProcessChannel] Sending message of length 24657, with hash 'd92579623a6191f1652b416766592b4351c8b7650e90db9b1cab889f38fe5b94'
+[2024-10-08 08:51:45Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 08:51:46Z INFO JobNotification] Entering JobStarted Notification
+[2024-10-08 08:51:46Z INFO JobNotification] Entering StartMonitor
+[2024-10-08 08:52:36Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 08:52:45Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 10/8/2024 9:02:44 AM
+[2024-10-08 08:53:27Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 08:53:46Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 10/8/2024 9:03:44 AM
+[2024-10-08 08:54:17Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 08:54:46Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 10/8/2024 9:04:45 AM
+[2024-10-08 08:55:08Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 08:55:47Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 10/8/2024 9:05:45 AM
+[2024-10-08 08:55:59Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 08:56:47Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 10/8/2024 9:06:46 AM
+[2024-10-08 08:56:50Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 08:57:40Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 08:57:47Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 10/8/2024 9:07:46 AM
+[2024-10-08 08:58:31Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 08:58:48Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 10/8/2024 9:08:46 AM
+[2024-10-08 08:59:22Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 08:59:48Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 10/8/2024 9:09:47 AM
+[2024-10-08 09:00:13Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:00:49Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 10/8/2024 9:10:47 AM
+[2024-10-08 09:01:03Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:01:49Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 10/8/2024 9:11:48 AM
+[2024-10-08 09:01:54Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:02:45Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:02:49Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 10/8/2024 9:12:48 AM
+[2024-10-08 09:03:00Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-10-08 09:03:00Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-10-08 09:03:00Z INFO ProcessInvokerWrapper] Finished process 44932 with exit code 102, and elapsed time 00:11:14.8318519.
+[2024-10-08 09:03:00Z INFO JobDispatcher] Worker finished for job e07742bd-189a-5079-918b-43f8b2f94b89. Code: 102
+[2024-10-08 09:03:00Z INFO JobDispatcher] finish job request for job e07742bd-189a-5079-918b-43f8b2f94b89 with result: Failed
+[2024-10-08 09:03:00Z INFO Terminal] WRITE LINE: 2024-10-08 09:03:00Z: Job deploy completed with result: Failed
+[2024-10-08 09:03:00Z INFO JobDispatcher] Stop renew job request for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2024-10-08 09:03:00Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 2.
+[2024-10-08 09:03:00Z INFO JobNotification] Entering JobCompleted Notification
+[2024-10-08 09:03:00Z INFO JobNotification] Entering EndMonitor
+[2024-10-08 09:03:00Z INFO MessageListener] Received job status event. JobState: Online
+[2024-10-08 09:03:36Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:04:26Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:05:17Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:06:08Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:06:58Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:07:49Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:08:40Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:09:31Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:10:22Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:11:12Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:12:03Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:12:54Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:13:45Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:14:36Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:15:26Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:16:17Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:17:08Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:17:59Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:18:50Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:19:40Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:20:31Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:21:22Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:22:12Z INFO MessageListener] No message retrieved from session '7f6ae832-e3e7-45bf-98cb-313ab8d1bd5c' within last 30 minutes.
+[2024-10-08 09:22:13Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:23:06Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:23:56Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:24:47Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:25:38Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:26:28Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:27:19Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:28:10Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:29:01Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:29:51Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:30:42Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:31:33Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:32:24Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:33:14Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:34:05Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:34:56Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:35:47Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:36:37Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:37:28Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:38:19Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:39:10Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:40:01Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:40:52Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:40:52Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\CI-CD Pipeline\actions-runner\actions-runner-win-x64-2.320.0\.credentials_rsaparams
+[2024-10-08 09:40:53Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-10-08 09:41:44Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:42:35Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:43:26Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:44:16Z INFO MessageListener] BrokerMigration message received. Polling Broker for messages...
+[2024-10-08 09:44:37Z INFO Terminal] WRITE LINE: Exiting...
+[2024-10-08 09:44:37Z INFO ConfigurationStore] IsServiceConfigured()
+[2024-10-08 09:44:37Z INFO ConfigurationStore] IsServiceConfigured: False
+[2024-10-08 09:44:37Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2024-10-08 09:44:37Z WARN GitHubActionsService] GET request to https://broker.actions.githubusercontent.com/message?sessionId=7f6ae832-e3e7-45bf-98cb-313ab8d1bd5c&status=Online&runnerVersion=2.320.0&os=Windows&architecture=X64&disableUpdate=false has been cancelled.
+[2024-10-08 09:44:37Z ERR  BrokerServer] Catch exception during request
+[2024-10-08 09:44:38Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpRequestMessage message, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Uri requestUri, HttpContent content, IEnumerable`1 queryParameters, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at GitHub.Actions.RunService.WebApi.BrokerHttpClient.GetRunnerMessageAsync(Nullable`1 sessionId, String runnerVersion, Nullable`1 status, String os, String architecture, Nullable`1 disableUpdate, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.BrokerServer.<>c__DisplayClass7_0.<<GetRunnerMessageAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at GitHub.Runner.Common.RunnerService.RetryRequest[T](Func`1 func, CancellationToken cancellationToken, Int32 maxRetryAttemptsCount, Func`2 shouldRetry)
+[2024-10-08 09:44:38Z ERR  BrokerServer] #####################################################
+[2024-10-08 09:44:38Z ERR  BrokerServer] System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2024-10-08 09:44:38Z ERR  BrokerServer] #####################################################
+[2024-10-08 09:44:38Z ERR  BrokerServer] System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+[2024-10-08 09:44:38Z WARN BrokerServer] Back off 8.235 seconds before next retry. 4 attempt left.
+[2024-10-08 09:44:38Z INFO MessageListener] Get next message has been cancelled.
+[2024-10-08 09:44:38Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2024-10-08 09:44:38Z INFO JobDispatcher] Ensure WorkerDispatcher for job e07742bd-189a-5079-918b-43f8b2f94b89 run to finish, cancel any running job.
+[2024-10-08 09:44:38Z INFO JobDispatcher] Job request e07742bd-189a-5079-918b-43f8b2f94b89 processed succeed.
+[2024-10-08 09:44:38Z INFO Runner] Deleting Runner Session...
+[2024-10-08 09:44:38Z INFO Listener] Runner execution been cancelled.
