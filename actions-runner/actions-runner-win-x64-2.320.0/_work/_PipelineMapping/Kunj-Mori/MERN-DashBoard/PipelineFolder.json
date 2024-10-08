@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "Kunj-Mori/MERN-DashBoard",
+  "pipelineDirectory": "MERN-DashBoard",
+  "workspaceDirectory": "MERN-DashBoard\\MERN-DashBoard",
+  "repositories": {
+    "Kunj-Mori/MERN-DashBoard": {
+      "repositoryPath": "MERN-DashBoard\\MERN-DashBoard",
+      "lastRunOn": "10/08/2024 12:58:03 +05:30"
+    }
+  },
+  "lastRunOn": "10/08/2024 13:23:00 +05:30"
+}
