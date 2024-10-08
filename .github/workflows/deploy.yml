@@ -24,12 +24,12 @@ jobs:
     # Step 3: Install client dependencies
     - name: Install client dependencies
       run: npm install
-      working-directory: ./client  # This assumes that your client code is in the "client" folder
+      working-directory: C:\Users\kunjm\OneDrive\Desktop\Project\CI-CD Pipeline\client  # Updated path
 
     # Step 4: Build the client-side React app
     - name: Build client
       run: npm run build
-      working-directory: ./client
+      working-directory: C:\Users\kunjm\OneDrive\Desktop\Project\CI-CD Pipeline\client  # Updated path
 
     # Step 5: Set up Node.js for server (Express/MongoDB)
     - name: Set up Node.js for server
@@ -40,11 +40,11 @@ jobs:
     # Step 6: Install server dependencies
     - name: Install server dependencies
       run: npm install
-      working-directory: ./server  # This assumes that your server code is in the "server" folder
+      working-directory: C:\Users\kunjm\OneDrive\Desktop\Project\CI-CD Pipeline\server  # Updated path
 
     # Step 7: Restart the server using PM2 (Process Manager)
     - name: Restart the server using PM2
       run: |
         pm2 stop mern-server || true  # Stop the server if it's already running
         pm2 start index.js --name "mern-server"  # Restart the server
-      working-directory: ./server  # Run PM2 in the server folder
+      working-directory: C:\Users\kunjm\OneDrive\Desktop\Project\CI-CD Pipeline\server  # Updated path
