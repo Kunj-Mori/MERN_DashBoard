@@ -1,36 +1,57 @@
-name: Deploy
+name: Deploy Application
 
 on:
   push:
     branches:
-      - main
+      - main # Run this action when changes are pushed to the main branch
 
 jobs:
   deploy:
     runs-on: self-hosted
 
     steps:
+      # Checkout repository
       - name: Checkout Repository
         uses: actions/checkout@v2
 
+      # Set up Node.js for the project
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: "14" # Use the Node.js version that matches your project
+          node-version: "16"
 
-      - name: Install Dependencies
+      # Install client dependencies
+      - name: Install Client Dependencies
         run: |
           cd client
           npm install
-          cd ../server
-          npm install
 
-      - name: Build Client
-        run: |
-          cd client
-          npm run dev
-
-      - name: Start Server
+      # Install server dependencies
+      - name: Install Server Dependencies
         run: |
           cd server
-          npm start
+          npm install
+
+      # Run client and server concurrently
+      - name: Run Client and Server Concurrently
+        run: |
+          npm run dev
+        timeout-minutes: 15 # Adjust this time based on your needs
+        env:
+          NODE_ENV: production
+
+      # Post-setup: Perform checks or other steps
+      - name: Post Setup and Repository Checkup
+        run: |
+          # Any post-deployment checks can be added here
+          echo "Post deployment check"
+          # Example: Testing if services are live
+          curl http://localhost:3000
+          curl http://localhost:5000
+
+      # Stop services (optional if they run indefinitely)
+      - name: Stop Client and Server
+        if: always()
+        run: |
+          pkill -f 'npm run dev'
+          pkill -f 'npm start'
