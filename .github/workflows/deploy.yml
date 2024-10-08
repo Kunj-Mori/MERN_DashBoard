@@ -28,7 +28,7 @@ jobs:
       - name: Build Client
         run: |
           cd client
-          npm run build
+          npm run dev
 
       - name: Start Server
         run: |
